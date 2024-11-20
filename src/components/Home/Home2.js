@@ -4,8 +4,8 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
+  AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -19,27 +19,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            As a passionate technology enthusiast...
               <br />
-              <br />I am fluent in classics like
+              <br /> I am dedicated to expanding my expertise in various fields, particularly in
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Data Structures and Algorithms (DSA) using Java.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I am actively learning Docker and exploring the 
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                <b className="purple"> MERN stack</b>  to broaden my development skills 
               </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              
+            
+                <b className="purple"> with Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -65,9 +59,16 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
+            <li className="social-icons">
+            <a href="mailto:guptaharsh2023@gmail.com"
+            className="icon-colour  home-social-icons">
+           
+                  <AiFillMail />
+                </a>
+              </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                   href="https://github.com/HARSHGUPTA3009"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +76,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+              
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                   href="https://www.linkedin.com/in/harshguptaaa/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/_harshhguptaa_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
