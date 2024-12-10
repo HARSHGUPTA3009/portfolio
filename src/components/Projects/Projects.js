@@ -25,7 +25,7 @@ function Projects() {
               imgPath={gdsc}
               isBlog={false}
               title="GDSC Website"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="Contributed to the official Thapar GDSC Website"
               ghLink="https://github.com/developer-student-club-thapar/Society-Website"
               demoLink="https://www.gdsctiet.in"
             />
@@ -36,7 +36,7 @@ function Projects() {
               imgPath={iete}
               isBlog={false}
               title="2D NINJA GAME"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="2D ninja game, where 2 players can play a attack based ninja game on the same computer"
               ghLink="https://github.com/HARSHGUPTA3009/Iete-societyfair-project"
               demoLink="https://iete-societyfair-project.vercel.app"
             />
@@ -47,7 +47,7 @@ function Projects() {
               imgPath={portfolio}
               isBlog={false}
               title="MY PORTFOLIO"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="My Portfolio website"
               ghLink="https://github.com/HARSHGUPTA3009/portfolio"
               demoLink="https://portfolio-harshgupta3009s-projects.vercel.app/project"              
             />
@@ -58,7 +58,7 @@ function Projects() {
               imgPath={todo}
               isBlog={false}
               title="TODO APP"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="A React based Todo app"
               ghLink="https://github.com/HARSHGUPTA3009/Todo"
               demoLink="https://todo-vercel-seven.vercel.app"
             />
