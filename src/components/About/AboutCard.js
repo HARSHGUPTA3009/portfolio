@@ -17,7 +17,7 @@ function AboutCard() {
             
             
             <br />
-             Something to write 
+             {/* Something to write  */}
           </p>
           
 
